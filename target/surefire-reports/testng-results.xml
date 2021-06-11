@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests.Tests" duration-ms="45810" started-at="2021-06-11T17:03:39 ART" finished-at="2021-06-11T17:04:24 ART">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45810" started-at="2021-06-11T17:03:39 ART" finished-at="2021-06-11T17:04:24 ART">
+      <class name="Tests.Tests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Tests@204f30ec]" name="setUp" is-config="true" duration-ms="15653" started-at="2021-06-11T17:03:39 ART" finished-at="2021-06-11T17:03:54 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchSummerDresses()[pri:0, instance:Tests.Tests@204f30ec]" name="searchSummerDresses" duration-ms="4754" started-at="2021-06-11T17:03:54 ART" finished-at="2021-06-11T17:03:59 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchSummerDresses -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Tests@204f30ec]" name="tearDown" is-config="true" duration-ms="200" started-at="2021-06-11T17:03:59 ART" finished-at="2021-06-11T17:03:59 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Tests@204f30ec]" name="setUp" is-config="true" duration-ms="20886" started-at="2021-06-11T17:03:59 ART" finished-at="2021-06-11T17:04:20 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sortDressesBySize()[pri:0, instance:Tests.Tests@204f30ec]" name="sortDressesBySize" duration-ms="4140" started-at="2021-06-11T17:04:20 ART" finished-at="2021-06-11T17:04:24 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortDressesBySize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Tests@204f30ec]" name="tearDown" is-config="true" duration-ms="132" started-at="2021-06-11T17:04:24 ART" finished-at="2021-06-11T17:04:24 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Tests.Tests -->
+</testng-results>
