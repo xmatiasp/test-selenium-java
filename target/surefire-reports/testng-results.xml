@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Tests.Tests" duration-ms="45810" started-at="2021-06-11T17:03:39 ART" finished-at="2021-06-11T17:04:24 ART">
+  <suite name="Tests.TestsCreateAccount" duration-ms="23347" started-at="2021-07-15T17:56:43 ART" finished-at="2021-07-15T17:57:06 ART">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="45810" started-at="2021-06-11T17:03:39 ART" finished-at="2021-06-11T17:04:24 ART">
-      <class name="Tests.Tests">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Tests@204f30ec]" name="setUp" is-config="true" duration-ms="15653" started-at="2021-06-11T17:03:39 ART" finished-at="2021-06-11T17:03:54 ART">
+    <test name="Command line test" duration-ms="23347" started-at="2021-07-15T17:56:43 ART" finished-at="2021-07-15T17:57:06 ART">
+      <class name="Tests.TestsCreateAccount">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.TestsCreateAccount@754ba872]" name="setUp" is-config="true" duration-ms="14286" started-at="2021-07-15T17:56:43 ART" finished-at="2021-07-15T17:56:57 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchSummerDresses()[pri:0, instance:Tests.Tests@204f30ec]" name="searchSummerDresses" duration-ms="4754" started-at="2021-06-11T17:03:54 ART" finished-at="2021-06-11T17:03:59 ART">
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:Tests.TestsCreateAccount@754ba872]" name="createAccount" duration-ms="8955" started-at="2021-07-15T17:56:57 ART" finished-at="2021-07-15T17:57:06 ART">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- searchSummerDresses -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Tests@204f30ec]" name="tearDown" is-config="true" duration-ms="200" started-at="2021-06-11T17:03:59 ART" finished-at="2021-06-11T17:03:59 ART">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.Tests@204f30ec]" name="setUp" is-config="true" duration-ms="20886" started-at="2021-06-11T17:03:59 ART" finished-at="2021-06-11T17:04:20 ART">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="sortDressesBySize()[pri:0, instance:Tests.Tests@204f30ec]" name="sortDressesBySize" duration-ms="4140" started-at="2021-06-11T17:04:20 ART" finished-at="2021-06-11T17:04:24 ART">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- sortDressesBySize -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.Tests@204f30ec]" name="tearDown" is-config="true" duration-ms="132" started-at="2021-06-11T17:04:24 ART" finished-at="2021-06-11T17:04:24 ART">
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.TestsCreateAccount@754ba872]" name="tearDown" is-config="true" duration-ms="67" started-at="2021-07-15T17:57:06 ART" finished-at="2021-07-15T17:57:06 ART">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Tests.Tests -->
+      </class> <!-- Tests.TestsCreateAccount -->
     </test> <!-- Command line test -->
-  </suite> <!-- Tests.Tests -->
+  </suite> <!-- Tests.TestsCreateAccount -->
 </testng-results>
